@@ -1,4 +1,4 @@
-The Drug Counterfeiting Problem
+Blockchain-based Drug Counterfeiting Detection System
 Welcome to this use case on detecting and preventing counterfeiting of drugs.
 Detailed instructions are given in the instruction-doc with commands to execute and their results is attached.
 
